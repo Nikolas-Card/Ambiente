@@ -1,0 +1,78 @@
+body{
+    background-color: #a5f1a3;
+}
+.cabecario{
+    background-color:  #3a9e3c;
+}
+.cabecario img{
+    margin-left: 100px;
+}
+.cabecario h1{
+    margin-top: 20px;
+    margin-left: 50px; 
+    color: white;
+}
+.cadastro{
+    padding-top: 20px;
+    text-align: center;
+}
+.cadastro h3{
+    margin-bottom: 20px;
+}
+.cadLog input{
+	height: 35px;
+	outline-color: white;
+	border: 2px solid #3a9e3c;
+}
+.btn{
+    background-color: #6e6e6c;
+    border: 3px solid;
+	color: white;
+	padding: 10px 30px;
+	text-transform: uppercase;
+	font-size: 18px;
+	font-weight: bold;
+	transition: 1s;
+}
+.login{
+    text-align: center;
+    
+}
+.login{
+    margin-top: 100px;
+}
+.login p{
+    padding-top: 10px;
+}
+.rodape{
+    background-color: black;
+}
+.rodape h3{
+    color: white;
+    font-size: 30px;
+    margin-top: 5%;
+    margin-bottom: 2%;
+    font-weight: bold;
+    margin-left: 150px;
+}
+.rodape p{
+    margin-left: 100px;
+    color: white;
+}
+.rodape h3::after{
+	content: "";
+	width: 600px;
+	height: 5px;
+	display: block;
+	background-color: white;
+}
+.botao{
+    background-color: #ffffff;
+    border: 3px solid #a5f1a3;
+	color: black;
+	padding: 30px 50px;
+	text-transform: uppercase;
+	font-size: 18px;
+	font-weight: bold;
+    transition: 1s;
+}
